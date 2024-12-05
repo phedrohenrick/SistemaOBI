@@ -57,7 +57,8 @@ Caso deseje conectar o sistema a um banco de dados funcional, siga estas etapas:
 
 ---
 
-## 📬 Contato  
+## 📬Autor e Contato  
+Phedro henrick da Silva Leão.
 
 Se tiver dúvidas ou encontrar problemas, entre em contato:  
 [GitHub: phedrohenrick](https://github.com/phedrohenrick)  
