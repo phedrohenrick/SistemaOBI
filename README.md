@@ -43,7 +43,7 @@ Caso deseje conectar o sistema a um banco de dados funcional, siga estas etapas:
 ## 🗂️ Configuração do Banco de Dados  
 
 1. **Crie o banco de dados:**  
-   Utilize os scripts SQL fornecidos no projeto (se aplicável) para criar as tabelas necessárias.  
+   Utilize os scripts SQL fornecidos no projeto para criar as tabelas necessárias.  
 
 2. **Teste a conexão:**  
    Certifique-se de que a conexão com o banco de dados está funcionando antes de executar operações como cadastro, edição ou exclusão.  
